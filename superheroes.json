@@ -1,0 +1,47 @@
+{
+    "escuadrónNombre": "Escuadrón de Superhéroes",
+    "ciudad natal": "Ciudad metropolitana",
+    "formado": 2016,
+    "base secreta": "Súper torre",
+    "activo": "cierto",
+    "miembros": [
+        {
+            "nombre": "Hombre Molécula",
+            "años": 29,
+            "identidad secreta": "Dan Jukes",
+            "potestades": [
+                "Resistencia a la radiación",
+                "Volviéndose diminuto",
+                "Explosión de radiación"
+            ]
+        },
+        {
+            "nombre": "Madame Uppercut",
+            "años": 39,
+            "identidad secreta": "Jane Wilson",
+            "potestades": [
+                "Ponche de un millón de toneladas",
+                "Resistencia al daño",
+                "Reflejos sobrehumanos"
+            ]
+        },
+        {
+            "nombre": "Llama eterna",
+            "años": 1000000,
+            "identidad secreta": "Desconocido",
+            "potestades": [
+                "Inmortalidad",
+                "Inmunidad al calor",
+                "Infierno",
+                "Teletransportación",
+                "Viaje interdimensional"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
